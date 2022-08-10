@@ -1,10 +1,10 @@
-/* .container-visibility{
+.container-visibility{
     visibility: visible;
-} */
+}
 
 
 .visibility{
-    visibility: visible;
+    visibility: inherit;
 }
 
 table ,td{
@@ -12,9 +12,9 @@ table ,td{
 
 }
 
-/* .tr-visibility{
+.tr-visibility{
     visibility: collapse;
-}  */
+} 
 
 
 /* visibility: inherit;
@@ -26,7 +26,7 @@ visibility: initial; */
     width: 500px;
     height: 500px;
     border: 2px solid red;
-    cursor: e-resize ;
+    cursor: vertical-text ;
 }
 
 
